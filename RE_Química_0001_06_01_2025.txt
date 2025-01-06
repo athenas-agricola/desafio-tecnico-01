@@ -1,0 +1,21 @@
+p		Desafio Técnico
+f	FAZENDA 00001
+a	374586	2025	07012025
+r	01MO	g.dm-3	17,35
+r	01PHCACl2	5,11
+r	01PRES	mg.dm-3	9,30
+r	01K	mmolc.dm-3	2,38
+r	01CA	mmolc.dm-3	16,07
+r	01MG	mmolc.dm-3	9,13
+r	01AL	mmolc.dm-3	0
+r	01H+AL	mmolc.dm-3	25,51
+r	01S	mg.dm-3	0
+r	01H	mmolc.dm-3	25,51
+r	01SB	mmolc.dm-3	27,58
+r	01CTC	mmolc.dm-3	53,09
+r	01V	%	51,95
+r	01M	%	0
+r	01KCTC	%	4,48
+r	01CACTC	%	30,27
+r	01MGCTC	%	17,20
+r	01CAMG	%	47,47
